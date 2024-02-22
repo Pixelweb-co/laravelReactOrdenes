@@ -30,7 +30,7 @@ ________________________________________________________
 
 frontend
 
-en la carpeta frontend ejecutar
+en la carpeta frontend_reactjs ejecutar
 
 npm install
 
